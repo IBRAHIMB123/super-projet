@@ -1,0 +1,31 @@
+h1{
+    color: brown;
+}
+p{
+    color: blue;
+}
+body{
+    background-color: chartreuse;
+}
+.ok{
+    color: rgb(226, 43, 171);
+}
+strong{
+    border: 1px solid rgb(169, 33, 33);
+}
+.div-para{
+    background-color: aqua;
+    font-weight: bold;
+}
+.span-ancien{
+    color: rgb(250, 205, 5);
+}
+.span-petit{
+    color: chocolate;
+}
+.span-grand{
+    color: fuchsia;
+}
+.ma{
+    font-family: "century gothic",verdana,sans-serif
+}
